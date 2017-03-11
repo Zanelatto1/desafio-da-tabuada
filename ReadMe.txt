@@ -1,4 +1,4 @@
-autor: Neiva Zanelatto
+autor: Zanelatto
 data: 2017/03/11.
 aplicativo: tabuada_v.1.0.0.0
 finalidade: aplicativo simples voltado ao aprendizado de tabuada
